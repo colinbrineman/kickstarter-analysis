@@ -56,7 +56,7 @@ Generating one's desired pivot table in Excel involves learning which elements o
 
 ###### CUSTOMIZING CHART TYPE
 
-When one asks Excel to generate a pivot chart from a pivot table, the result is not always the desired chart type. The initial chart Excel generates from the pivot table in sheet "Theater Outcomes by Launch Date" is a bar graph (see: Figure 3.1), whereas the objective for Deliverable 1 is to generate a line graph.
+When one asks Excel to generate a pivot chart from a pivot table, the result is not always the desired chart type. The initial chart Excel generates from the pivot table in sheet "Theater Outcomes by Launch Date" is a bar graph, whereas the objective for Deliverable 1 is to generate a line graph (see: Figure 3.1).
 
 FIGURE 3.1: AUTOMATICALLY GENERATED BAR CHART
 ![FIGURE 3.1: AUTOMATICALLY GENERATED BAR CHART](/resources/Automatically_Generated_Bar_Chart.png)
