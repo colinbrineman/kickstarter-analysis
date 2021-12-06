@@ -35,7 +35,7 @@ FIGURE 1: THEATER OUTCOMES BASED ON LAUNCH DATE
 
 ### OUTCOMES BASED ON GOALS
 
-The line chart produced as part of Deliverable 2 (see: Figure 2) is perplexing. One should expect there to be a negative relationship between fundraising goals and success rates, given that it is easier to raise less, as opposed to more, money. Therefore, the wild oscillations in the higher goal brackets (>$10,000) defy explanation. There does appear to be a negative correlation between fundraising goals and success rates in the lower brackets ($0 to $10,000), however. Therefore, one may preliminarily conclude that projects with lower fundraising goals have a higher likelihood of success. 
+The line chart produced as part of Deliverable 2 is perplexing (see: Figure 2). One should expect there to be a negative relationship between fundraising goals and success rates, given that it is easier to raise less, as opposed to more, money. Therefore, the wild oscillations in the higher goal brackets (>$10,000) defy explanation. There does appear to be a negative correlation between fundraising goals and success rates in the lower brackets ($0 to $10,000), however. Therefore, one may preliminarily conclude that projects with lower fundraising goals have a higher likelihood of success. 
 
 FIGURE 2: OUTCOMES BASED ON GOALS
 ![FIGURE 2: OUTCOMES BASED ON GOALS](/resources/Outcomes_vs_Goals.png)
