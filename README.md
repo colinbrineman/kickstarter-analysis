@@ -79,7 +79,7 @@ Using reference cells (see: Figure 3.3) requires a much simpler formula for the 
 Not only is this formula simpler than one without reference cells, but it is also more repurposable should the end-user desire to break the relevant data down into goal brackets of their own choosing.
 
 FIGURE 3.3: OUTCOMES BASED ON GOALS TABLE WITH REFERENCE CELLS
-![FIGURE 3.3: OUTCOMES BASED ON GOALS TABLE WITH REFERENCE CELLS]
+![FIGURE 3.3: OUTCOMES BASED ON GOALS TABLE WITH REFERENCE CELLS](/resources/Outcomes_Based_on_Goals_Table_With_Reference_Cells.png)
  
 ####DISADVANTAGES OF USING REFERENCE CELLS WITH "COUNTIFS()" FUNCTIONS
 
