@@ -7,7 +7,7 @@ Colin Brineman, M.A.
 ##OVERVIEW
 
 ###OBJECTIVES
-The challenge for Module 1 is analyze and visualize data from Kickstarter fundraising campaigns for “Louise,” a playwright, so that she can better understand the determinants of efficacy for Kickstarter fundraising campaigns in the “theater” category.The purpose of Module 1 of the University of North Carolina at Chapel Hill’s Data Analytics Boot Camp is to develop and demonstrates skills in Microsoft Excel, including but not limited to:
+The challenge for Module 1 is analyze and visualize data from Kickstarter fundraising campaigns for Louise, a playwright, so that she can better understand the determinants of efficacy for Kickstarter fundraising campaigns in the “theater” category. The purpose of Module 1 of the University of North Carolina at Chapel Hill’s Data Analytics Boot Camp is to develop and demonstrates skills in Microsoft Excel, including but not limited to:
   - creating pivot tables and data visualizations,
   - filtering and formatting data, and
   - using functions to slice and summarize data.
