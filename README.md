@@ -103,6 +103,6 @@ FIGURE 4.2 CUMULATIVE PERCENTAGE OF PROJECTS BASED ON GOALS
 
 ## CONCLUSION
 
-The Module 1 challenge, using Excel to analyze Kickstarter fundraising data, demonstrates both the power and the limitations of Excel as a tool for data analysis and visualization. Fortunately, Louise came very close to meeting her $10,000 fundraising for her play 'Fever'. However, one would be remiss not to recommend that Louise commission additional research into the determinants of fundraising success rates, so that she can better understand both:
+The Module 1 challenge, using Excel to analyze Kickstarter fundraising data, demonstrates both the power and the limitations of Excel as a tool for data analysis and visualization. Fortunately, Louise came very close to meeting her $10,000 fundraising for her play *Fever*. However, one would be remiss not to recommend that Louise commission additional research into the determinants of fundraising success rates, so that she can better understand both:
   1. the causal linkages between start date and success rates for fundraising campaigns (likely explicable through a subject matter investigation into prospective donors' capacities and perceptions) and
   2. how to effectively execute fundraising projects with larger initial goals.
