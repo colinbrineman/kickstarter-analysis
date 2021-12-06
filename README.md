@@ -2,7 +2,7 @@
 
 Module 1 Challenge: Using Excel to Analyze & Visualize Kickstarter Fundraising Data
 
-##AUTHOR
+## AUTHOR
 
 Colin Brineman, M.A.
 
